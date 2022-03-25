@@ -1,0 +1,13 @@
+current directory: /Users/karthikeyan_r2/Projects/workshop/AwesomeTSProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/karthikeyan_r2/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/karthikeyan_r2/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220325-66472-fu0yxi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/karthikeyan_r2/Projects/workshop/AwesomeTSProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/karthikeyan_r2/Projects/workshop/AwesomeTSProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/karthikeyan_r2/Projects/workshop/AwesomeTSProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
